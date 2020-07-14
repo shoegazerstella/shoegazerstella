@@ -8,7 +8,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mstellatavella/)](https://www.linkedin.com/in/mstellatavella/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mstella.tavella@gmail.com)](mailto:mstella.tavella@gmail.com)
 [![Twitter Badge](https://img.shields.io/twitter/follow/shoegazerstella)](https://twitter.com/shoegazerstella)
 
 [![SoundCloud Badge](https://img.shields.io/badge/listen-soundcloud-orange)](https://soundcloud.com/vbravbra)
